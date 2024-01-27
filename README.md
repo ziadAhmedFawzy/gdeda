@@ -1,4 +1,6 @@
-#gdeda
+<h1>جديدة</h1>
+
+
 مرحبًا بك في موقع "جديدة"، حيث يتيح لك هذا الموقع الوصول إلى مجموعة واسعة من المقالات المثيرة والمفيدة في مختلف المجالات. إننا نسعى إلى تقديم تجربة ممتعة ومثرية للقراء، سواء كنت مهتمًا بالعلوم، التكنولوجيا، الثقافة، الفنون، الصحة، أو أي موضوع آخ
 ر.
 
@@ -8,6 +10,7 @@
 
 نحن نقدر تفاعلك ومشاركتك، لذا يمكنك التعبير عن آرائك وتجاربك من خلال التعليقات ومشاركتها مع مجتمعنا المتنوع. تفضل بزيارتنا باستمرار لتكتشف المزيد من المعلومات الشيقة والمثيرة في عالم المقالات. نتمنى لك تجربة قراءة ممتعة ومفيدة!
 
+<h1>gdeda</h1>
 Welcome to the "New" site, where this site gives you access to a wide range of exciting and useful articles in various fields. We seek to provide a fun and enriching experience for readers, whether you are interested in science, technology, culture, arts, health, or any other topic.
 
 Our articles are quality and accurate, and our specialized team works to select and prepare content with great care. You can see recent and diverse articles covering the latest developments and innovations in various fields.
